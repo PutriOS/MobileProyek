@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="Login" skipped="0" tests="5" time="244.93" timestamp="2022-05-14 09:35:53"><testcase name="Login with valid email and valid password"><error message="An element could not be located on the page using the given search parameters.&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'MSI', ip: '192.168.57.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: io.appium.java_client.android.AndroidDriver&#10;Capabilities {app: D:\Project\AltaMobile\app/a..., appPackage: com.example.frontend_mobile, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: D:\Project\AltaMobile\app/a..., autoGrantPermissions: true, automationName: UiAutomator2, newCommandTimeout: 100, noReset: true, platformName: android}, deviceApiLevel: 29, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 100, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 135, takesScreenshot: true, viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, warnings: {}, webStorageEnabled: false}&#10;Session ID: 7ae712f5-bff9-449d-9190-096bf59e6d02&#10;*** Element info: {Using=xpath, value=(//android.widget.Button[@content-desc=&quot;Beli&quot;])[1]}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'MSI', ip: '192.168.57.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: driver.version: AndroidDriver" type="org.openqa.selenium.NoSuchElementException">An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MSI', ip: '192.168.57.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\Project\AltaMobile\app/a..., appPackage: com.example.frontend_mobile, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: D:\Project\AltaMobile\app/a..., autoGrantPermissions: true, automationName: UiAutomator2, newCommandTimeout: 100, noReset: true, platformName: android}, deviceApiLevel: 29, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 100, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 135, takesScreenshot: true, viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 7ae712f5-bff9-449d-9190-096bf59e6d02
+*** Element info: {Using=xpath, value=(//android.widget.Button[@content-desc="Beli"])[1]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MSI', ip: '192.168.57.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver</error><system-err>An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MSI', ip: '192.168.57.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: D:\Project\AltaMobile\app/a..., appPackage: com.example.frontend_mobile, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {app: D:\Project\AltaMobile\app/a..., autoGrantPermissions: true, automationName: UiAutomator2, newCommandTimeout: 100, noReset: true, platformName: android}, deviceApiLevel: 29, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 100, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 135, takesScreenshot: true, viewportRect: {height: 1842, left: 0, top: 135, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 7ae712f5-bff9-449d-9190-096bf59e6d02
+*** Element info: {Using=xpath, value=(//android.widget.Button[@content-desc="Beli"])[1]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MSI', ip: '192.168.57.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)&#13;
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)&#13;
+io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)&#13;
+io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)&#13;
+test.alta.pageobject.BasePageObject.waitUntilVisible(BasePageObject.java:35)&#13;
+test.alta.pages.ProductsScreen.isOnHomePage(ProductsScreen.java:19)&#13;
+test.alta.stepdefinitions.LoginSteps.onTheHomePage(LoginSteps.java:37)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:64)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:104)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:73)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:258)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)&#13;
+</system-err></testcase><testcase name="Login with invalid data"><error type="java.lang.reflect.InvocationTargetException"/><system-err>null&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:225)&#13;
+io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)&#13;
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)&#13;
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)&#13;
+io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:363)&#13;
+io.appium.java_client.DefaultGenericMobileDriver.&lt;init&gt;(DefaultGenericMobileDriver.java:37)&#13;
+io.appium.java_client.AppiumDriver.&lt;init&gt;(AppiumDriver.java:89)&#13;
+io.appium.java_client.AppiumDriver.&lt;init&gt;(AppiumDriver.java:99)&#13;
+io.appium.java_client.android.AndroidDriver.&lt;init&gt;(AndroidDriver.java:97)&#13;
+test.alta.driver.AndroidDriverPool.create(AndroidDriverPool.java:29)&#13;
+test.alta.pageobject.BasePageObject.getDriver(BasePageObject.java:17)&#13;
+test.alta.pageobject.BasePageObject.onWait(BasePageObject.java:23)&#13;
+test.alta.pageobject.BasePageObject.waitUntilClickable(BasePageObject.java:27)&#13;
+test.alta.pageobject.BasePageObject.onClick(BasePageObject.java:39)&#13;
+test.alta.pages.LoginScreen.clickIconLogin(LoginScreen.java:45)&#13;
+test.alta.stepdefinitions.LoginSteps.onTheLoginPage(LoginSteps.java:20)&#13;
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)&#13;
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:64)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:104)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:73)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:258)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:57)&#13;
+</system-err></testcase></testsuite>
