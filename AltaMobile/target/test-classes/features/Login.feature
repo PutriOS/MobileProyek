@@ -23,8 +23,8 @@ Feature: Login
     Examples:
       |email            |password |errormessage |
       |carvey@gmail.com |car123vey|invaliddata  |
-#      |||messagekosong |
-#      ||5574r23333|messageemail  |
-#      |dana@mail.com||messagepassword |
+      |||messagekosong |
+      ||5574r23333|messageemail  |
+      |dana@mail.com||messagepassword |
 
 

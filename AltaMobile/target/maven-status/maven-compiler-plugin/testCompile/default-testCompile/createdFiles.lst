@@ -1,8 +1,6 @@
-test\alta\pages\RegisterScreen.class
 test\alta\hooks\BaseDriverHooks.class
 test\alta\pages\ProductsScreen.class
 test\alta\CucumberTestSuite.class
-test\alta\stepdefinitions\RegisterSteps.class
 test\alta\pageobject\BasePageObject.class
 test\alta\stepdefinitions\ProductSteps.class
 test\alta\pages\LoginScreen.class
